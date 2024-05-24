@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**EduardoLPP/EduardoLPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-Here are some ideas to get you started:
+### Eduardo Passos
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+
+<a href="https://www.linkedin.com/in/eduardo-leonardo-275b0118a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/edpasso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
+
+
+In software development, I found a way to exercise my passion for helping people. Seeing the satisfaction after completing a task makes me feel fulfilled. Currently, I have been interested in and learning about developing websites, apps, and games.
+
+I’m currently working on  <a href="https://tseautomacao.com.br" target="_blank">TSE Energia e Automação</a>. At the company where I work, I have another Git account, and here is the contribution history from the past year.
+
+
+>Last update on May 24th
+![git](github.png)
+
+<div style="display: inline_block"><br>
+
+<i class="android-original"></i>
+</div>
