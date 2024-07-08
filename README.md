@@ -17,7 +17,7 @@ In software development, I found a way to exercise my passion for helping people
 I’m currently working on  <a href="https://tseautomacao.com.br" target="_blank">TSE Energia e Automação</a>. At the company where I work, I have another Git account, and here is the contribution history from the past year.
 
 
->Last update on May 24th
+>Last update on July 8
 ![git](github.png)
 
 <div style="display: inline_block"><br>
