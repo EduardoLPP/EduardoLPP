@@ -51,21 +51,3 @@ I’m currently working on <a href="https://tseautomacao.com.br" target="_blank"
   ![htmlrazor](htmlrazor.png)
 
 </div>
-
-> Technologies
-<div align="center">
-
-  ![reactjs](reactjs.png)
-  ![aspnet](aspnet.png)
-  ![styledcomponents](styledcomponents.png)
-
-  <br/><br/>
-
-  ![spring](spring.png)
-  ![entityFrameworkCore](entityFrameworkcore.png)
-  ![entityFramework](entityFramework.png)
-
-  <br/><br/>
-
-  ![junit](junit.png)
-</div>
