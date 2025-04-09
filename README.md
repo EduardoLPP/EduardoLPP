@@ -62,7 +62,7 @@ I’m currently working on <a href="https://tseautomacao.com.br" target="_blank"
   <br/><br/>
 
   ![spring](spring.png)
-  ![entityFrameworkCore](entityFrameworkCore.png)
+  ![entityFrameworkCore](entityFrameworkcore.png)
   ![entityFramework](entityFramework.png)
 
   <br/><br/>
